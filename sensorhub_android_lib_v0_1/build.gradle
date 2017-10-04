@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('sensorhub_android_lib_v0_1.aar'))

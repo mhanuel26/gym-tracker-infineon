@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GymAssistantApp</string>
+
+    <string name="title_activity_aidialog_sample">GYM ASSISTANT</string>
+    <string name="title_activity_nanohub_dicso">NANOHUB PAIR</string>
+    <string name="about">About</string>
+    <string name="nanohub_disco">Nanohub</string>
+    <string name="non_empty_query">Query should not be empty</string>
+
+    <string name="nanoHubDevice">Device</string>
+    <string name="ConnectBtn">Connect</string>
+    <string name="ConnectResult">Connect Status</string>
+    <string name="exercise">Exercise</string>
+    <string name="exercise_name">Deadlift</string>
+    <string name="sets">Sets</string>
+    <string name="sets_number">2</string>
+    <string name="reps">Reps</string>
+    <string name="reps_number">15</string>
+    <string name="weight">Weight</string>
+    <string name="weight2lift">120</string>
+
+    <string name="perf_reps">*</string>
+    <string name="perf_set">*</string>
+
+    <string name="use_bluetooth_headset">Use Bluetooth headset</string>
+    <string name="listenBtn">Start Listen</string>
+</resources>
